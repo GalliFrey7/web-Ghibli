@@ -10,8 +10,8 @@ The site provides extensive information about the studio and its films
 
 # link to web-app [studio Ghibli](https://web-ghibli.herokuapp.com/)
 
-# Used framework
-## Bootstrap
+# Used framework:
+- Bootstrap
 
 # used API to get date about films
 
