@@ -17,7 +17,8 @@ The site provides extensive information about the studio and its films
 
 # Presentation on [YouTube](https://youtu.be/sPbsM1fHLig)
 
-# Video [feedbacks](https://drive.google.com/file/d/1ik57bP5-iv1I4S2Ob9NhisQzxdNZFcNT/view?usp=sharing)[feedbacks](https://drive.google.com/file/d/1MfZ9O3qZVyasxmCY_Goh1vT2S0cY7TPV/view?usp=sharing )
+# Video [feedbacks](https://drive.google.com/file/d/1ik57bP5-iv1I4S2Ob9NhisQzxdNZFcNT/view?usp=sharing)
+[feedbacks](https://drive.google.com/file/d/1MfZ9O3qZVyasxmCY_Goh1vT2S0cY7TPV/view?usp=sharing )
 
 # Made by
 ## Adenov Erkhan and Augustin Chynarbekov
