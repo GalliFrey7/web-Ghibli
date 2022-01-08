@@ -21,5 +21,11 @@ The site provides extensive information about the studio and its films
 - [feedback1](https://drive.google.com/file/d/1ik57bP5-iv1I4S2Ob9NhisQzxdNZFcNT/view?usp=sharing)
 - [feedback2](https://drive.google.com/file/d/1MfZ9O3qZVyasxmCY_Goh1vT2S0cY7TPV/view?usp=sharing)
 
-# Made by
-## Adenov Erkhan and Augustin Chynarbekov
+# Made by:
+[Augustin Chynarbekov](https://github.com/NPaugust)
+
+[Erkhan Adenov](https://github.com/GalliFrey7)
+
+<a href="https://github.com/GalliFrey7/web-Ghibli/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GalliFrey7/web-Ghibli" />
+</a>
